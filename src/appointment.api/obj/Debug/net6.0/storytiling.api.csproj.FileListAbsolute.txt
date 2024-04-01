@@ -1,0 +1,149 @@
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\appsettings.Development.json
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\appsettings.json
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\storytiling.api.exe
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\storytiling.api.deps.json
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\storytiling.api.runtimeconfig.json
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\storytiling.api.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\storytiling.api.pdb
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\storytiling.api.xml
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.APIGatewayEvents.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.AspNetCoreServer.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.Logging.AspNetCore.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\AutoMapper.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\AWSSDK.DynamoDBv2.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\storytiling.core.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\storytiling.infrastructure.dll
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\storytiling.core.pdb
+D:\git clone repositories\Storytiling\src\appointment.api\bin\Debug\net6.0\storytiling.infrastructure.pdb
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\storytiling.api.csproj.AssemblyReference.cache
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\storytiling.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\storytiling.api.AssemblyInfoInputs.cache
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\storytiling.api.AssemblyInfo.cs
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\storytiling.api.csproj.CoreCompileInputs.cache
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\storytiling.api.MvcApplicationPartsAssemblyInfo.cache
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\staticwebassets\msbuild.storytiling.api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\staticwebassets\msbuild.build.storytiling.api.props
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.storytiling.api.props
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.storytiling.api.props
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\staticwebassets.build.json
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\staticwebassets.development.json
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\scopedcss\bundle\storytiling.api.styles.css
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\storytiling.api.csproj.CopyComplete
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\storytiling.api.dll
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\refint\storytiling.api.dll
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\storytiling.api.xml
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\storytiling.api.pdb
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\storytiling.api.genruntimeconfig.cache
+D:\git clone repositories\Storytiling\src\appointment.api\obj\Debug\net6.0\ref\storytiling.api.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\appsettings.json
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\storytiling.api.exe
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\storytiling.api.deps.json
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\storytiling.api.runtimeconfig.json
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\storytiling.api.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\storytiling.api.pdb
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\storytiling.api.xml
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.APIGatewayEvents.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.AspNetCoreServer.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.Logging.AspNetCore.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\AutoMapper.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\AWSSDK.DynamoDBv2.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\storytiling.core.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\storytiling.infrastructure.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\storytiling.core.pdb
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\bin\Debug\net6.0\storytiling.infrastructure.pdb
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\storytiling.api.csproj.AssemblyReference.cache
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\storytiling.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\storytiling.api.AssemblyInfoInputs.cache
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\storytiling.api.AssemblyInfo.cs
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\storytiling.api.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\storytiling.api.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\storytiling.api.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\staticwebassets\msbuild.storytiling.api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\staticwebassets\msbuild.build.storytiling.api.props
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.storytiling.api.props
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.storytiling.api.props
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\scopedcss\bundle\storytiling.api.styles.css
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\storytiling.api.csproj.CopyComplete
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\storytiling.api.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\refint\storytiling.api.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\storytiling.api.xml
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\storytiling.api.pdb
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\storytiling.api.genruntimeconfig.cache
+D:\Projects\dotnet-core-dynamodb\src\appointment.api\obj\Debug\net6.0\ref\storytiling.api.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\appsettings.Development.json
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\appsettings.json
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\storytiling.api.exe
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\storytiling.api.deps.json
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\storytiling.api.runtimeconfig.json
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\storytiling.api.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\storytiling.api.pdb
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\storytiling.api.xml
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.APIGatewayEvents.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.AspNetCoreServer.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.Logging.AspNetCore.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\AutoMapper.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\AWSSDK.Core.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\AWSSDK.DynamoDBv2.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\storytiling.core.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\storytiling.infrastructure.dll
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\storytiling.core.pdb
+E:\Projects\Test_projects\abc\src\appointment.api\bin\Debug\net6.0\storytiling.infrastructure.pdb
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\storytiling.api.csproj.AssemblyReference.cache
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\storytiling.api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\storytiling.api.AssemblyInfoInputs.cache
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\storytiling.api.AssemblyInfo.cs
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\storytiling.api.csproj.CoreCompileInputs.cache
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\storytiling.api.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\storytiling.api.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\staticwebassets\msbuild.storytiling.api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\staticwebassets\msbuild.build.storytiling.api.props
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.storytiling.api.props
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.storytiling.api.props
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\staticwebassets.build.json
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\staticwebassets.development.json
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\scopedcss\bundle\storytiling.api.styles.css
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\storytiling.api.csproj.CopyComplete
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\storytiling.api.dll
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\refint\storytiling.api.dll
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\storytiling.api.xml
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\storytiling.api.pdb
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\storytiling.api.genruntimeconfig.cache
+E:\Projects\Test_projects\abc\src\appointment.api\obj\Debug\net6.0\ref\storytiling.api.dll

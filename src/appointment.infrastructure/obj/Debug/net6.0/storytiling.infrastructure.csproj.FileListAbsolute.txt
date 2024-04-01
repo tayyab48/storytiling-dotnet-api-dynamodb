@@ -1,0 +1,45 @@
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.infrastructure.deps.json
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.infrastructure.dll
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.infrastructure.pdb
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.core.dll
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.core.pdb
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.csproj.AssemblyReference.cache
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.AssemblyInfoInputs.cache
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.AssemblyInfo.cs
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.csproj.CoreCompileInputs.cache
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.csproj.CopyComplete
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.dll
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\obj\Debug\net6.0\refint\storytiling.infrastructure.dll
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.pdb
+D:\git clone repositories\Storytiling\src\appointment.infrastructure\obj\Debug\net6.0\ref\storytiling.infrastructure.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.infrastructure.deps.json
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.infrastructure.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.infrastructure.pdb
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.core.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.core.pdb
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.csproj.AssemblyReference.cache
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.AssemblyInfoInputs.cache
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.AssemblyInfo.cs
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.csproj.CopyComplete
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\obj\Debug\net6.0\refint\storytiling.infrastructure.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.pdb
+D:\Projects\dotnet-core-dynamodb\src\appointment.infrastructure\obj\Debug\net6.0\ref\storytiling.infrastructure.dll
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.csproj.AssemblyReference.cache
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.AssemblyInfoInputs.cache
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.AssemblyInfo.cs
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.infrastructure.deps.json
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.infrastructure.dll
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.infrastructure.pdb
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.core.dll
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\bin\Debug\net6.0\storytiling.core.pdb
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.csproj.CopyComplete
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.dll
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\obj\Debug\net6.0\refint\storytiling.infrastructure.dll
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\obj\Debug\net6.0\storytiling.infrastructure.pdb
+E:\Projects\Test_projects\abc\src\appointment.infrastructure\obj\Debug\net6.0\ref\storytiling.infrastructure.dll

@@ -1,0 +1,36 @@
+D:\git clone repositories\Storytiling\src\appointment.core\bin\Debug\net6.0\storytiling.core.deps.json
+D:\git clone repositories\Storytiling\src\appointment.core\bin\Debug\net6.0\storytiling.core.dll
+D:\git clone repositories\Storytiling\src\appointment.core\bin\Debug\net6.0\storytiling.core.pdb
+D:\git clone repositories\Storytiling\src\appointment.core\obj\Debug\net6.0\storytiling.core.csproj.AssemblyReference.cache
+D:\git clone repositories\Storytiling\src\appointment.core\obj\Debug\net6.0\storytiling.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\git clone repositories\Storytiling\src\appointment.core\obj\Debug\net6.0\storytiling.core.AssemblyInfoInputs.cache
+D:\git clone repositories\Storytiling\src\appointment.core\obj\Debug\net6.0\storytiling.core.AssemblyInfo.cs
+D:\git clone repositories\Storytiling\src\appointment.core\obj\Debug\net6.0\storytiling.core.csproj.CoreCompileInputs.cache
+D:\git clone repositories\Storytiling\src\appointment.core\obj\Debug\net6.0\storytiling.core.dll
+D:\git clone repositories\Storytiling\src\appointment.core\obj\Debug\net6.0\refint\storytiling.core.dll
+D:\git clone repositories\Storytiling\src\appointment.core\obj\Debug\net6.0\storytiling.core.pdb
+D:\git clone repositories\Storytiling\src\appointment.core\obj\Debug\net6.0\ref\storytiling.core.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.core\bin\Debug\net6.0\storytiling.core.deps.json
+D:\Projects\dotnet-core-dynamodb\src\appointment.core\bin\Debug\net6.0\storytiling.core.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.core\bin\Debug\net6.0\storytiling.core.pdb
+D:\Projects\dotnet-core-dynamodb\src\appointment.core\obj\Debug\net6.0\storytiling.core.csproj.AssemblyReference.cache
+D:\Projects\dotnet-core-dynamodb\src\appointment.core\obj\Debug\net6.0\storytiling.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet-core-dynamodb\src\appointment.core\obj\Debug\net6.0\storytiling.core.AssemblyInfoInputs.cache
+D:\Projects\dotnet-core-dynamodb\src\appointment.core\obj\Debug\net6.0\storytiling.core.AssemblyInfo.cs
+D:\Projects\dotnet-core-dynamodb\src\appointment.core\obj\Debug\net6.0\storytiling.core.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet-core-dynamodb\src\appointment.core\obj\Debug\net6.0\storytiling.core.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.core\obj\Debug\net6.0\refint\storytiling.core.dll
+D:\Projects\dotnet-core-dynamodb\src\appointment.core\obj\Debug\net6.0\storytiling.core.pdb
+D:\Projects\dotnet-core-dynamodb\src\appointment.core\obj\Debug\net6.0\ref\storytiling.core.dll
+E:\Projects\Test_projects\abc\src\appointment.core\bin\Debug\net6.0\storytiling.core.deps.json
+E:\Projects\Test_projects\abc\src\appointment.core\bin\Debug\net6.0\storytiling.core.dll
+E:\Projects\Test_projects\abc\src\appointment.core\bin\Debug\net6.0\storytiling.core.pdb
+E:\Projects\Test_projects\abc\src\appointment.core\obj\Debug\net6.0\storytiling.core.csproj.AssemblyReference.cache
+E:\Projects\Test_projects\abc\src\appointment.core\obj\Debug\net6.0\storytiling.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Test_projects\abc\src\appointment.core\obj\Debug\net6.0\storytiling.core.AssemblyInfoInputs.cache
+E:\Projects\Test_projects\abc\src\appointment.core\obj\Debug\net6.0\storytiling.core.AssemblyInfo.cs
+E:\Projects\Test_projects\abc\src\appointment.core\obj\Debug\net6.0\storytiling.core.csproj.CoreCompileInputs.cache
+E:\Projects\Test_projects\abc\src\appointment.core\obj\Debug\net6.0\storytiling.core.dll
+E:\Projects\Test_projects\abc\src\appointment.core\obj\Debug\net6.0\refint\storytiling.core.dll
+E:\Projects\Test_projects\abc\src\appointment.core\obj\Debug\net6.0\storytiling.core.pdb
+E:\Projects\Test_projects\abc\src\appointment.core\obj\Debug\net6.0\ref\storytiling.core.dll
