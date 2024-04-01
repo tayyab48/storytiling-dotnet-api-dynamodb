@@ -34,3 +34,15 @@ E:\Projects\Test_projects\abc\src\appointment.core\obj\Debug\net6.0\storytiling.
 E:\Projects\Test_projects\abc\src\appointment.core\obj\Debug\net6.0\refint\storytiling.core.dll
 E:\Projects\Test_projects\abc\src\appointment.core\obj\Debug\net6.0\storytiling.core.pdb
 E:\Projects\Test_projects\abc\src\appointment.core\obj\Debug\net6.0\ref\storytiling.core.dll
+E:\Projects\Test_projects\storytiling\src\appointment.core\bin\Debug\net6.0\storytiling.core.deps.json
+E:\Projects\Test_projects\storytiling\src\appointment.core\bin\Debug\net6.0\storytiling.core.dll
+E:\Projects\Test_projects\storytiling\src\appointment.core\bin\Debug\net6.0\storytiling.core.pdb
+E:\Projects\Test_projects\storytiling\src\appointment.core\obj\Debug\net6.0\storytiling.core.csproj.AssemblyReference.cache
+E:\Projects\Test_projects\storytiling\src\appointment.core\obj\Debug\net6.0\storytiling.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Test_projects\storytiling\src\appointment.core\obj\Debug\net6.0\storytiling.core.AssemblyInfoInputs.cache
+E:\Projects\Test_projects\storytiling\src\appointment.core\obj\Debug\net6.0\storytiling.core.AssemblyInfo.cs
+E:\Projects\Test_projects\storytiling\src\appointment.core\obj\Debug\net6.0\storytiling.core.csproj.CoreCompileInputs.cache
+E:\Projects\Test_projects\storytiling\src\appointment.core\obj\Debug\net6.0\storytiling.core.dll
+E:\Projects\Test_projects\storytiling\src\appointment.core\obj\Debug\net6.0\refint\storytiling.core.dll
+E:\Projects\Test_projects\storytiling\src\appointment.core\obj\Debug\net6.0\storytiling.core.pdb
+E:\Projects\Test_projects\storytiling\src\appointment.core\obj\Debug\net6.0\ref\storytiling.core.dll
